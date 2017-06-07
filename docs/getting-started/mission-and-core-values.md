@@ -48,7 +48,7 @@ To achieve our mission we intend to employ a strategy that contains three core c
 
 - We aim to foster an environment conducive to easy, intuitive and consistent learning and one that fosters innovation at all levels.
 
-### User Community / Aquisition
+### User Community / Acquisition
 
 - Status will not compromise the sovereignty and security of user data.
 
@@ -82,4 +82,4 @@ To achieve our mission we intend to employ a strategy that contains three core c
 
 - The systems we're creating must be open, permissionless, award fair access and Distribute, Decentralise, and Democratise power.
 
-- Status is licenced as Free Libre & Open Source software, which allow **anyone** to run the software for **any purpose** as well as to **study**, **Modify**, and **distribute** the software and any adapted versions.
+- Status is licensed as Free Libre & Open Source software, which allow **anyone** to run the software for **any purpose** as well as to **study**, **Modify**, and **distribute** the software and any adapted versions.
