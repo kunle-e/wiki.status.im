@@ -19,7 +19,7 @@ This Code of Conduct governs how we behave in public or in private whenever the 
 ## We strive to:
 
 - **Reciprocate**   
-Nothing is more important than to show appreciation for every and anyones contributions, no matter if big or small. We show reciprocation by saying thank-you, contributing ourselves or paying it forward.
+Nothing is more important than to show appreciation for every and anyone's contributions, no matter if big or small. We show reciprocation by saying thank-you, contributing ourselves or paying it forward.
 
 - **Be considerate**   
 Our work will be used by other people, and we in turn depend on the work of others. Any decision we take will affect users and colleagues, and we should consider them when making decisions.  
@@ -27,7 +27,7 @@ Our work will be used by other people, and we in turn depend on the work of othe
 	When somebody leaves or disengages from the project, we ask that they do so in a way that minimises disruption to the project. They should tell people they are leaving and take the proper steps to ensure that others can pick up where they left off.
 
 - **Feel free to ask**  
-If there's something you don't know, do ask, questions are encouraged. Nobody is expected to be perfect in this community. Many newcomers just want to get acquinted with the project, so asking questions early avoids many problems later. The project is fast paced and ever evolving, so even people that have been around a long time might have questions.   
+If there's something you don't know, do ask, questions are encouraged. Nobody is expected to be perfect in this community. Many newcomers just want to get acquainted with the project, so asking questions early avoids many problems later. The project is fast paced and ever evolving, so even people that have been around a long time might have questions.   
 
 	Those who are asked or answer a general question should be responsive and helpful, directing people to the appropriate forums or channels is good, but answering the question is more important.
 
